@@ -1,1 +1,2 @@
 # dsda-y2-collaborative-git-team-practice-team-activity
+This is NOT a coding activity. The team will gain practical experience with branching, merging, resolving conflicts, and integrating user interaction and data manipulation functionalities into their Python script by completing this activity. They will also reinforce the importance of teamwork and communication in collaborative software development while intentionally practising conflict resolution.
