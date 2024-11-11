@@ -1,5 +1,11 @@
 # dsda-y2-collaborative-git-team-practice-team-activity
-This is NOT a coding activity. By completing this activity, the team will gain practical experience with branching, merging, resolving conflicts, and integrating user interaction and data manipulation functionalities into their Python script. They will also reinforce the importance of teamwork and communication in collaborative software development while intentionally practising conflict resolution. Clone this repository to work together as a team.
+This is NOT a coding activity. By completing this activity, the team will gain practical experience with branching, merging, resolving conflicts, and integrating user interaction and data manipulation functionalities into their Python script. They will also reinforce the importance of teamwork and communication in collaborative software development while intentionally practising conflict resolution. 
+
+# Clone this repository. 
+You have the option to either:
+Use your existing team repository for this task by adding the cloned files there. After completing the activity, you may delete these files if they are no longer needed.
+OR create a new repository specifically for this task and add the files there.
+Once you’ve decided, push the files from the cloned repository to your chosen team repository.
 
 # Goal:
 
