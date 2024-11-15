@@ -6,3 +6,5 @@ if __name__ == "__main__":
     user_number = int(input("Enter a number: "))
     result = calculate_square(user_number)
     print(f"The square of {user_number} is {result}")
+
+#number 2 file
